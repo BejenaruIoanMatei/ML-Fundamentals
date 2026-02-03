@@ -3,7 +3,13 @@ Logistic Regression:
 
 Linear Regression:
     ✔ Linear Regression Closed-Form (youtube) @done(26-02-02 19:13)
-    ☐ Linear Regression with Gradient (youtube)
-    ☐ Residual Plots
+    ✔ Linear Regression with Gradient (youtube) @done(26-02-03 12:51)
+    ✔ Residual Plots @done(26-02-03 12:51)
+
+Dincolo de Algoritmi:
+    ☐ Evaluarea modelelor: Accuracy, Precision, Recall, F1-Score, MAE, RMSE, Rsquared
+    ☐ Validare: train_test_split si Cross-Validation (K-Fold)
+    ☐ Preprocesare: Gestionare valori lipsa (Imputation), One-Hot Encoding vs Label Encoding, scalarea datelor (StandardScaler)
+    ✔ Overfitting vs underfitting (Bias-Variance Tradeoff) @done(26-02-03 21:45)
 
 Decision Trees & Random Forest:
